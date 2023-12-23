@@ -1,0 +1,8 @@
+name: Brainder
+version: '${project.version}'
+main: cz.s1mplik.boss.brainder.Brainder
+api-version: 1.19
+authors: [ S1mplik ]
+commands:
+  spawnbrainder:
+    description: Spawne Brainder Bose

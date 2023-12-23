@@ -1,0 +1,12 @@
+brainderspawn:
+  x: 0
+  y: 70
+  z: 0
+  world: "world"
+brainder:
+  health: 500
+  plusdamage: 30
+
+brainderzombie:
+  health: 500
+  plusdamage: 50
